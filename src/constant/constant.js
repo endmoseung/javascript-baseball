@@ -5,6 +5,8 @@ const GAME_MESSAGE = {
   STRIKE: "스트라이크",
   BALL: "볼",
   WIN: "3스트라이크",
+  GAME_END: "gameEnd",
+  RETRY: "retry",
 };
 
 const ERROR_MESSAGE = {
